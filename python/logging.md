@@ -5,3 +5,5 @@ Logging is a very basic feature of Python that doesn't do anything in terms of c
 **First of all, you need to import the logging function**
 
 To do so, do `import logging` at the top of your python file.
+
+This will put the prebuilt function of logging that python has, and imports it into your python file.
