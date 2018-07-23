@@ -1,6 +1,5 @@
 # Try / Except
 
----
 
 ###### Try / Except is pretty useful for python, where you don't want to have any sort of problems with errors breaking the code.
 
