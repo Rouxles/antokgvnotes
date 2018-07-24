@@ -5,3 +5,5 @@
 The folders are there to sort out stuff. Sometimes I will sort things by date, but most of the time it isn't necessary.
 
 No need to download anything - you can just click through the folders on this website and click on the .md (short for markdown) files. They can be viewed on GitHub itself, and will be formatted correctly there as well.
+
+There will be a lot of folder navigation, but this allows for easy images that can be placed in every folder for easier references (and relative references for images, not direct references) which doesn't matter for you but matters a lot for me.
