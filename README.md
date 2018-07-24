@@ -4,4 +4,4 @@
 
 The folders are there to sort out stuff. Sometimes I will sort things by date, but most of the time it isn't necessary.
 
-No need to download anything - you can just click through the folders on this website and click on the MD files. They will be formatted on the website (and will look good enough I guess)
+No need to download anything - you can just click through the folders on this website and click on the .md (short for markdown) files. They can 
