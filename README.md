@@ -1,4 +1,4 @@
-# Anto's KGV Notes
+# Anto's Notes
 
 **Click on the folders** for other stuff that you may or may not need (such as Computer Science notes primarily). All files are markdown files and you can view them through this repo. Will mainly be used during IB, but some of the new stuff will be from IGCSE.
 
