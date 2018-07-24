@@ -32,4 +32,4 @@
 
 ### Done
 
-- [x] Set this checklist up
+- [x] Set this checklist up (instead of using GitHub projects.)
