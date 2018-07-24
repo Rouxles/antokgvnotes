@@ -95,7 +95,7 @@ logging.warning('%s types of %s', x, y)
 
 Would output:
 
-```
+```python
 >>>[WARNING] 5 types of Birds.
 ```
 
