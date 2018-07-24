@@ -109,3 +109,5 @@ The logging priority levels are shown below.
 | `INFO` | 20 |
 | `DEBUG` | 10 |
 | `NOTSET` | 0 |
+
+An example of this being used can be found in the [try and except markdown file](https://github.com/Rouxles/antonotes/blob/master/computer%20science/python/try%20and%20except%20python.md)
