@@ -53,4 +53,4 @@ return the else statement (as long as you 'define' it)
 '''
 ```
 
-Try/Except is super cool stuff
+Try/Except is super cool stuff. Read the code, it kinda speaks for itself. To find the built-in exceptions, [click here](https://docs.python.org/3/library/exceptions.html)/
