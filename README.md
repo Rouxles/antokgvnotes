@@ -9,3 +9,5 @@ No need to download anything - you can just click through the folders on this we
 There will be a lot of folder navigation, but this allows for easy images that can be placed in every folder for easier references (and relative references for images, not direct references) which doesn't matter for you but matters a lot for me.
 
 To see what I plan to do, click CHECKLIST.md in the root folder. It will say what I plan to do (and in which priority I want to do them in).
+
+**This will not be updated in a very long time, I will only upload things to GitHub once I think they are ready, most of the stuff I'll be doing in a private repo (on GitLab) so you guys can't see how stupid I am until I finish IGCSE :P**
