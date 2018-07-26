@@ -8,6 +8,7 @@
 
 - [ ] Finish Basic Python Help/Tutorial
 - [ ] Finish Theory in Computer Science
+- [ ] Binary/Hex conversions and shifts if needed
 
 ---
 
@@ -19,6 +20,8 @@
   - [ ] Arabic Music
   - [ ] Indian Music
 - [ ] Music past papers + explanations
+- [ ] Theory - explain most of the basic concepts, as well as some interesting concepts if needed (such as half diminished chords or secondary dominants)
+- [ ] Make theory ready for Y10 IGCSE students
 
 ---
 
@@ -33,3 +36,5 @@
 ### Done
 
 - [x] Set this checklist up (instead of using GitHub projects.)
+- [x] Added theory section
+- [x] Finished advanced music theory section
