@@ -14,24 +14,34 @@ An example of the Lydian modulation would be:
 
 ---
 
-Cm Bb Ab G
+> Cm Bb Ab G
 
 Above is a normal chord progression in the song, response of a call and response which leads to another phrase. We could make this a Lydian phrase instead of an Aeolian phrase. Modulating to the relative Lydian key would mean having the tonic as a Ab major triad. So what we do in this case would be to start the next phrase on an Ab major chord, and go from there.
 
-Ab - this sort of lightens up the mood without changing the key center of the piece by a lot.
+> Ab
 
-Bb/Ab - this chord is very common in lydian, where you have the major II chord with the Lydian root as the bass, which emphasizes the Lydian tonality (in the #4 found between Ab and D). [Usually in a typical Ab major scale, the D would be a Db, but having the D sharped creates the Lydian tonality that we are looking for in this section]
+This sort of lightens up the mood without changing the key center of the piece by a lot.
 
-Gm7 - this chord is the chord that makes the most sense following the Bb/Ab chord, all that happens is that the Ab bass becomes a G, which then creates a Gm7 chord assuming none of the other notes in the Bb/Ab chord change.
+> Bb/Ab
 
-Csus4 C - This would be a nice chord to follow Gm7 to emphasize the F played in the Gm7 chord (because Csus4 is C F G, creating a chord that wants to resolve back to C.)
+This chord is very common in Lydian, where you have the major II chord with the Lydian root as the bass, which emphasizes the Lydian tonality (in the #4 found between Ab and D). [Usually in a typical Ab major scale, the D would be a Db, but having the D sharped creates the Lydian tonality that we are looking for in this section]
 
-Ab Bb/Ab Gm7 Csus4 C would be a nice chord progression to go to in a Lydian section of a piece, before a transition phrase leading back to the Aeolian section. Keep in mind, the Lydian section is voiced as being far more calm than the Aeolian section.
+> Gm7
+
+This chord is the chord that makes the most sense following the Bb/Ab chord, all that happens is that the Ab bass becomes a G, which then creates a Gm7 chord assuming none of the other notes in the Bb/Ab chord change.
+
+> Csus4 C
+
+This would be a nice chord to follow Gm7 to emphasize the F played in the Gm7 chord (because Csus4 is C F G, creating a chord that wants to resolve back to C.)
+
+> Ab Bb/Ab Gm7 Csus4 C
+
+Above would be a nice chord progression to go to in a Lydian section of a piece, before a transition phrase leading back to the Aeolian section. Keep in mind, the Lydian section is voiced as being far more calm than the Aeolian section.
 
 So in tartarus and back, I plan to use the Lydian section as such:
 
-Ab Bb/Ab Gm7 Csus4
-Ab Bb/Ab Csus4 C [Cm]
+> Ab Bb/Ab Gm7 Csus4
+> Ab Bb/Ab Csus4 C [Cm]
 
 The Cm is just shown as a transition into C minor. I go from Csus4 to C to Cm which is just a descent by a semitone each time. Interesting harmonies can be done with that, it's just extremely hard to execute correctly unless you listen carefully and write your harmonies/melodies to fit it.
 
