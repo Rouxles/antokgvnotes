@@ -1,0 +1,1 @@
+[kgv compsci website link - login with kgv account or it won't work \(I will mirror this website maybe)](https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fsites.google.com%2Fkgv.hk%2Fcie-igcse-comp-sci%2Fhome&authuser=0)

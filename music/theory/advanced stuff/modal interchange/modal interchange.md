@@ -27,6 +27,8 @@ Below will always be in the format of (scale degree in numbers), then (notes in 
 > Note: All scales with 2 or more flats are considered minor, while the other 3 scales are considered major scales.
 >
 > Dorian is the brightest minor scale while Lydian is the brightest major scale.
+>
+> The reasoning behind this is basically the tonic chord. If there are 2 or more flats, the tonic chord will either be a minor chord or a diminished chord (Dorian has b3 which gives a minor triad, and Locrian has b5 which creates a diminished fifth interval). Mixolydian has no b3 so the tonic chord is a major triad (and same thing for Lydian)
 
 ```
 Ionian:

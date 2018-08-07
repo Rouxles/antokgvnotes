@@ -4,6 +4,12 @@
 
 ---
 
+#### Misc.
+
+- [ ] Change links from gitlab to github on release
+
+---
+
 ##### Computer Science
 
 - [ ] Finish Basic Python Help/Tutorial

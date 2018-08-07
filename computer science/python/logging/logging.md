@@ -14,7 +14,7 @@ This will put the prebuilt function of logging that python has, and imports it i
 
 ## A very simple example of logging is in the code shown below.
 
-```Python
+```python
 import logging
 logging.warning('Watch out!')  # will print a message to the console
 logging.info('I told you so')  # will not print anything
@@ -40,10 +40,10 @@ What the above will do is make a file called example.log (if it isn't already cr
 
 If we then look at our **text file** called *example.log*, we will get
 
-```python
->>>DEBUG:root:This message should go to the log file
->>>INFO:root:So should this
->>>WARNING:root:And this, too
+```
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
 ```
 ###### Looks very ugly right now, but that can be fixed.
 
@@ -110,4 +110,4 @@ The logging priority levels are shown below.
 | `DEBUG` | 10 |
 | `NOTSET` | 0 |
 
-An example of this being used can be found in the [try and except markdown file](https://github.com/Rouxles/antonotes/blob/master/computer%20science/python/try%20and%20except%20python.md)
+An example of this being used can be found in the [try and except markdown file](https://gitlab.com/Rouxles/antonotes/blob/master/computer%20science/python/try%20and%20except/try%20and%20except%20python.md)
