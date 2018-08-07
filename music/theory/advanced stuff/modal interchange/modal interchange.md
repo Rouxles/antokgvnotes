@@ -8,11 +8,13 @@ A way to make up the key on the spot is to take the C major scale, and change th
 
 For example:
 
-```
+---
+
 C D E F G A B - C root note
 
 D E F G A B C - D root note - all the notes are from the key of C. This mode is called the Dorian mode.
-```
+
+---
 
 You don't need to remember the name of all the modes because you are only using it for making your compositions sound better, not to make your listening test score higher (modes aren't covered in the test).
 

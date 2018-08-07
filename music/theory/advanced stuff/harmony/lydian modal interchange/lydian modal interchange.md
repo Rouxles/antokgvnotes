@@ -12,7 +12,8 @@ So, typically, I would go to the relative Lydian key instead of the parallel Lyd
 
 An example of the Lydian modulation would be:
 
-```
+---
+
 Cm Bb Ab G
 
 Above is a normal chord progression in the song, response of a call and response which leads to another phrase. We could make this a Lydian phrase instead of an Aeolian phrase. Modulating to the relative Lydian key would mean having the tonic as a Ab major triad. So what we do in this case would be to start the next phrase on an Ab major chord, and go from there.
@@ -35,6 +36,7 @@ Ab Bb/Ab Csus4 C [Cm]
 The Cm is just shown as a transition into C minor. I go from Csus4 to C to Cm which is just a descent by a semitone each time. Interesting harmonies can be done with that, it's just extremely hard to execute correctly unless you listen carefully and write your harmonies/melodies to fit it.
 
 When using the Csus4 C chord 'progression', I highly recommend not using the E note in the melody (the third) because it clashes with the Csus4 (unless you intentionally want to have a Cadd4 chord instead of a Csus4). For these situations, I would typically end the melody on either a G or a C, because those are the two tones that don't give away the key signature during a C chord.
-```
+
+---
 
 Fun.
